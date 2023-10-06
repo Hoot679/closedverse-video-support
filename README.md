@@ -17,6 +17,8 @@ so its closedverse, but with video mp4 support and all the features from the oth
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 # Setup
+## I'd say these are development instructions. For main instructions, check the original repo, which is below.
+https://github.com/TermOfficial/closedverse-video-support
 1. First, SSH into your server.
 2. Update using `sudo apt update && sudo apt upgrade`
 3. Install pip if you don't have it already. `sudo apt install pip`
